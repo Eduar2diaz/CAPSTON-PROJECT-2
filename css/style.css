@@ -44,3 +44,21 @@ body{
     width: 500px;
     text-align: center;
 }
+
+@media(max-width: 990px){
+    .AM > p{
+        font-size: 1.4rem;
+    }
+}
+
+@media(max-width: 600px){
+    .AM > p{
+        font-size: 1.3rem;
+    }
+}
+
+@media(max-width: 499px){
+    .AM > p{
+        font-size: 1rem;
+    }
+}
