@@ -1,0 +1,46 @@
+body{
+    background-color: #edeced;
+}
+
+.intro{
+    background-color: #d9d9d9;
+    border-radius: 15%;
+}
+
+.potrait{
+    border-radius: 10%;
+}
+
+.lead{
+    font-weight: 500;
+}
+
+.feature{
+    display: inline-flex;
+}
+
+.AM-t{
+    font-size: 5rem;
+    font-weight: 700;
+}
+
+.AM{
+    height: 120px;
+    background-color: #d9d9d9;
+}
+
+.AM > p{
+    font-size: 1.7rem;
+}
+
+.CM{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.CM > div{
+    background-color: #d9d9d9;
+    width: 500px;
+    text-align: center;
+}
